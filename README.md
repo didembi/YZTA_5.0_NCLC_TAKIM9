@@ -11,22 +11,22 @@ Startup ekiplerinin en büyük sorunu: e-postalar, toplantılar ve görevler bir
 ## 📸 Ekran Görüntüleri
 
 ### Dashboard — Günlük Özet
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Week View — Haftalık Takvim
-![Week](docs/screenshots/week.png)
+![Week](week.png)
 
 ### Meetings — Toplantı Takvimi
-![Meetings](docs/screenshots/meetings.png)
+![Meetings](meetings.png)
 
 ### Inbox — AI Destekli Mail Yönlendirme
-![Inbox](docs/screenshots/inbox.png)
+![Inbox](inbox.png)
 
 ### AI Analizi — Mail Detayı
-![AI Analysis](docs/screenshots/ai-analysis.png)
+![AI Analysis](ai-analysis.png)
 
 ### Günlük Brifing E-postası
-![Briefing Email](docs/screenshots/briefing-email.png)
+![Briefing Email](briefing-email.png)
 
 ---
 
