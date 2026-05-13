@@ -23,10 +23,10 @@ Startup ekiplerinin en büyük sorunu: e-postalar, toplantılar ve görevler bir
 ![Inbox](Inbox.png)
 
 ### AI Analizi — Mail Detayı
-![AI Analysis](Ai-Analysis.png)
+![AI Analysis](Ai-analysis.png)
 
 ### Günlük Brifing E-postası
-![Briefing Email](Briefing-Email.png)
+![Briefing Email](Briefing-email.png)
 
 ---
 
