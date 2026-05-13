@@ -1,4 +1,4 @@
-# 🤖 FlowMate — AI-Powered Daily Briefing Assistant
+# 📆 FlowMate — AI-Powered Daily Briefing Assistant
 
 > **Hackathon Projesi** — "Personal AI Assistant for Daily Workflows"
 
