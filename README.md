@@ -191,14 +191,12 @@ Her brifing mailinde şunlar yer alır:
 ```
 ├── workflow.json              # n8n workflow export
 ├── README.md
-└── docs/
-    └── screenshots/
-        ├── dashboard.png
-        ├── week.png
-        ├── meetings.png
-        ├── inbox.png
-        ├── ai-analysis.png
-        └── briefing-email.png
+├── dashboard.png
+├── week.png
+├── meetings.png
+├── inbox.png
+├── ai-analysis.png
+└── briefing-email.png
 ```
 
 ---
