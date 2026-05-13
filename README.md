@@ -8,7 +8,11 @@ Startup ekiplerinin en büyük sorunu: e-postalar, toplantılar ve görevler bir
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 🔗 Canlı Demo
+
+👉 **[FlowMate'i Dene](https://flow-mate--denemeyollari12.replit.app/)**
+
+## 📸 Uygulamamızın Ekran Görüntüleri
 
 ### Dashboard — Günlük Özet
 ![Dashboard](Dashboard.png)
@@ -23,10 +27,13 @@ Startup ekiplerinin en büyük sorunu: e-postalar, toplantılar ve görevler bir
 ![Inbox](Inbox.png)
 
 ### AI Analizi — Mail Detayı
-![AI Analysis](Ai-analysis.png)
+![AI Analysis](AI-analysis.png)
 
 ### Günlük Brifing E-postası
 ![Briefing Email](Briefing-email.png)
+
+## 📸 Workflow'un Ekran Görüntüsü
+![Workflow](workflow.png)
 
 ---
 
